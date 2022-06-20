@@ -1,0 +1,12 @@
+.head-div {
+    display: flex;
+    justify-content: center;
+}
+
+.half {
+    margin-left: 20px;
+}
+
+.img {
+    margin-left: 840px;
+}
